@@ -53,11 +53,11 @@ This project is especially useful in domains like **healthcare**, **finance**, a
 8. Decrypt results if authorized
 
 ---
-![privacy-pic1](https://github.com/user-attachments/assets/aad352a6-0416-4f3d-b516-be91f9fb5f14)
 
 ### **Image 1: Privacy-Preserving Similarity Search Dashboard**
 
 This image shows the **main application interface** of the system.
+![privacy-pic1](https://github.com/user-attachments/assets/aad352a6-0416-4f3d-b516-be91f9fb5f14)
 
 **What it includes:**
 
@@ -72,12 +72,10 @@ This image shows the **main application interface** of the system.
 * Demonstrates how users can securely upload and process data.
 * Ensures users never directly operate on unprotected cloud data.
 
-![privacy-graph1](https://github.com/user-attachments/assets/de995def-084c-4f7a-92e9-cecbd72bcb5c)
-
-
 ### **Image 2: Dataset Scatter Plot (PCA Reduced)**
 
 This image displays a **scatter plot of the dataset after PCA dimensionality reduction**.
+![privacy-graph1](https://github.com/user-attachments/assets/de995def-084c-4f7a-92e9-cecbd72bcb5c)
 
 **What it shows:**
 
@@ -92,11 +90,11 @@ This image displays a **scatter plot of the dataset after PCA dimensionality red
 * Useful for understanding similarity relationships in a privacy-safe manner.
 
 ---
-![privacy-graph2](https://github.com/user-attachments/assets/f0355fb9-5cd6-4394-bf0c-3b10a075720c)
 
 ### **Image 3: Dataset Histogram (First PCA Component)**
 
 This image represents a **histogram of the first principal component** after PCA.
+![privacy-graph2](https://github.com/user-attachments/assets/f0355fb9-5cd6-4394-bf0c-3b10a075720c)
 
 **What it shows:**
 
